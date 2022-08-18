@@ -1,0 +1,38 @@
+{
+  "Reservations": {
+    "Reservation": [
+      {
+        "begDate": "2022-01-01",
+        "amount": 50,
+        "paxCount": 10,
+        "supplierCode": "SUP01"
+      },
+      {
+        "begDate": "2022-02-01",
+        "amount": 100,
+        "paxCount": 5,
+        "supplierCode": "SUP05"
+      },      
+      {
+        "begDate": "2022-02-01",
+        "amount": 200,
+        "paxCount": 3,
+        "supplierCode": "SUP01"
+      }
+      ,
+      {
+        "begDate": "2022-02-01",
+        "amount": 40,
+        "paxCount": 1,
+        "supplierCode": "SUP02"
+      }
+      ,
+      {
+        "begDate": "2022-02-01",
+        "amount": 20,
+        "paxCount": 1,
+        "supplierCode": "SUP03"
+      }
+    ]
+  }
+}
